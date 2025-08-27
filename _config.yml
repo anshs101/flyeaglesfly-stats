@@ -4,7 +4,7 @@ author: Ansh Saxena
 baseurl: "" # leave blank unless you're publishing under a subpath
 url: "https://anshs101.github.io" # replace YOUR_USERNAME
 
-theme: minima # or replace with another supported theme
+theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-feed
