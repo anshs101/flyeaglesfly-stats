@@ -1,23 +1,8 @@
----
-layout: default
 title: Eagles Analytics Blog
----
-
-A data-driven look at the Philadelphia Eagles using NFL stats, analytics, and AI.
+description: A data-driven look at the Philadelphia Eagles using NFL stats, analytics, and AI.
 author: Ansh Saxena
 baseurl: "" # leave blank unless you're publishing under a subpath
-url: "https://anshs101.github.io" # replace YOUR_USERNAME
-
-## Latest Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span>({{ post.date | date: "%B %d, %Y" }})</span>
-    </li>
-  {% endfor %}
-</ul>
+url: "https://anshs101.github.io"
 
 theme: jekyll-theme-minimal
 markdown: kramdown
