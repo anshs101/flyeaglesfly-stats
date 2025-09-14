@@ -1,7 +1,7 @@
 title: Eagles Analytics Blog
 description: A data-driven look at the Philadelphia Eagles using NFL stats, analytics, and AI.
 author: Ansh Saxena
-baseurl: "" # leave blank unless you're publishing under a subpath
+baseurl: "" # leave blank unless using a subpath
 url: "https://anshs101.github.io"
 
 theme: jekyll-theme-minimal
