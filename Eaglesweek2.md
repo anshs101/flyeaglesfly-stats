@@ -1,8 +1,6 @@
 ---
 title: "Week 1 Recap & Week 2 Predictions"
-date: 2025-09-06
-categories: [Eagles, Weekly]
-tags: [NFL, Eagles, Week1, Week2, Predictions]
+date: 2025-09-14
 ---
 
 The NFL season is back! Each week, I’ll break down the Eagles’ performance and use data + machine learning to provide insights and predictions.
