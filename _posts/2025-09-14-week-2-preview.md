@@ -2,8 +2,6 @@
 layout: post
 title: "Week 2 Predictions vs Chiefs"
 date: 2025-09-14
-categories: preview
-permalink: /week-2-preview/
 ---
 
 The NFL season is back! Each week, I’ll break down the Eagles’ performance and use data + machine learning to provide insights and predictions.
