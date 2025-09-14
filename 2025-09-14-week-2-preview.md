@@ -1,6 +1,7 @@
 ---
-title: "Week 1 Recap & Week 2 Predictions"
+title: "Week 2 Predictions vs Chiefs"
 date: 2025-09-14
+categories: preview
 ---
 
 The NFL season is back! Each week, I’ll break down the Eagles’ performance and use data + machine learning to provide insights and predictions.
