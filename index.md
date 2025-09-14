@@ -7,4 +7,4 @@ title: Eagles Analytics Blog
 A data-driven look at the Philadelphia Eagles using NFL stats, analytics, and AI.
 
 ## Week 2 Post
-- [Week 2 Predictions vs Chiefs](2025/09/14/week-2-preview.md)
+- [Week 2 Predictions vs Chiefs](2025-09-14-week-2-preview.md)
