@@ -4,14 +4,6 @@ author: Ansh Saxena
 baseurl: "" # leave blank unless you're publishing under a subpath
 url: "https://anshs101.github.io"
 
----
-layout: post
-title: "Week 2 Predictions vs Chiefs"
-date: 2025-09-14
-categories: preview
-permalink: /week-2-preview/   # optional, but cleaner URLs
----
-
 theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
